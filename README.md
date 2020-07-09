@@ -1,1 +1,0 @@
-# ELK-stack-with-Ansible-and-Docker
